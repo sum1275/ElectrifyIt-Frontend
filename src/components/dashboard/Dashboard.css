@@ -1,0 +1,17 @@
+.bg-smoke-white {
+  background-color: rgba(245, 245, 245, 0.75); /* Adjust opacity as needed */
+}
+.width-sidebar{
+  width: 20%;
+  margin-top: 20%;
+}
+.centered-report-1 {
+  position: absolute;
+  top: 15vh;
+  left: 22%;
+}
+.centered-report-2{
+  position: absolute;
+  top: 15vh;
+  left: 12%;
+}
